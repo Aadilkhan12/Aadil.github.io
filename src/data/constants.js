@@ -308,7 +308,7 @@ export const projects = [
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
+    github: "https://github.com/Aadilkhan12/Podstream-main/tree/main/Podstream-main",
     webapp: "https://podstream.netlify.app/",
     member: [
       {
