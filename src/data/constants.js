@@ -317,12 +317,7 @@ export const projects = [
         linkedin: "https://www.linkedin.com/in/rkaadil06/",
         github: "https://github.com/Aadilkhan12/",
       },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
+     
     ],
   },
   {
@@ -484,13 +479,7 @@ export const projects = [
         img: "HeroImage.png",
         linkedin: "https://www.linkedin.com/in/rkaadil06/",
         github: "https://github.com/Aadilkhan12/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
+      }
     ],
   },
   {
@@ -511,13 +500,8 @@ export const projects = [
         img: "HeroImage.png",
         linkedin: "https://www.linkedin.com/in/rkaadil06/",
         github: "https://github.com/Aadilkhan12/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
+      }
+   
     ],
   },
   {
@@ -538,13 +522,8 @@ export const projects = [
         img: "HeroImage.png",
         linkedin: "https://www.linkedin.com/in/rkaadil06/",
         github: "https://github.com/Aadilkhan12/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
+      }
+    
     ],
   },
 ];
